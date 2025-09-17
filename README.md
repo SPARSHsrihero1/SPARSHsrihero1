@@ -8,7 +8,7 @@ Welcome to my GitHub profile repository! This is a special ✨ _profile README_ 
 - 👯 I’m looking to collaborate on: Open-source AI tools and educational content.
 - 🤔 I’m looking for help with: Deploying ML models and optimizing performance.
 - 💬 Ask me about: C, Python, Git, or anything tech-related.
-- 📫 How to reach me: sparshh.2007@gmail.com
+- 📫 How to reach me: sparshh.2007@gmail.com / https://www.linkedin.com/in/sparsh-0x7o/
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I love turning complex problems into elegant code.
 
