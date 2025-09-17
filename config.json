@@ -1,0 +1,18 @@
+{
+  "projectName": "SPARSHsrihero1",
+  "author": "SPARSHsrihero1",
+  "version": "1.0.0",
+  "description": "Personal GitHub repository for experiments and learning.",
+  "repository": "https://github.com/SPARSHsrihero1/SPARSHsrihero1",
+  "license": "MIT",
+  "settings": {
+    "enableLogging": true,
+    "theme": "dark",
+    "maxRetries": 3,
+    "timeout": 5000
+  },
+  "dependencies": {
+    "numpy": ">=1.24.0",
+    "pandas": ">=2.0.0"
+  }
+}
